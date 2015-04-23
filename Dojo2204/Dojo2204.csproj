@@ -43,6 +43,7 @@
     <Compile Include="EgalA69Rule.cs" />
     <Compile Include="FizzBuzz.cs" />
     <Compile Include="IRule.cs" />
+    <None Include="LICENCE" />
     <Compile Include="MultipleDe3Rule.cs" />
     <Compile Include="MultipleDe5Rule.cs" />
     <Compile Include="MultipleDe7Rule.cs" />
